@@ -7,7 +7,6 @@ public class NumberToWord
 	String number;
     public NumberToWord(String n) {
 		// TODO Auto-generated constructor stub
-		// TODO Auto-generated constructor stub
     	this.number=n;
 	}
 
